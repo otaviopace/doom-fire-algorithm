@@ -1,0 +1,1 @@
+/home/otaviopace/doom-fire-algorithm/playground/render-with-canvas-and-calculate-with-wasm/target/wasm32-unknown-unknown/release/render_with_canvas_and_calculate_with_wasm.wasm: /home/otaviopace/doom-fire-algorithm/playground/render-with-canvas-and-calculate-with-wasm/src/lib.rs

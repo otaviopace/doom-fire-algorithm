@@ -1,0 +1,10 @@
+[package]
+name = "render-with-canvas-and-calculate-with-wasm"
+version = "0.1.0"
+authors = ["Otávio Pace <otaviopp8@gmail.com>"]
+edition = "2018"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
